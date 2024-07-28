@@ -1,0 +1,9 @@
+{
+  "hosting": {
+    "site": "ourfamilyphoto",
+    "public": "build"
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
